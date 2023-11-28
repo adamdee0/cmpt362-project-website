@@ -308,6 +308,7 @@
     
     // Toggle the "btn__done--animate" class for the ".btn__done" element
     btnDone.classList.toggle("btn__done--animate");
+    window.location.href = "https://github.com/adamdee0/cmpt362-project-website/raw/main/app-debug.apk";
   });
 
 
