@@ -780,7 +780,7 @@ section {
   background: rgba(21, 21, 21, 0.6);
 }
 
-.portfolio .portfolio-wrap::before {
+/* .portfolio .portfolio-wrap::before {
   content: "";
   background: rgba(21, 21, 21, 0.6);
   position: absolute;
@@ -791,7 +791,7 @@ section {
   transition: all ease-in-out 0.3s;
   z-index: 2;
   opacity: 0;
-}
+} */
 
 .portfolio .portfolio-wrap img {
   transition: all ease-in-out 0.3s;
@@ -849,9 +849,9 @@ section {
   opacity: 1;
 }
 
-.portfolio .portfolio-wrap:hover img {
+/* .portfolio .portfolio-wrap:hover img {
   transform: scale(1.2);
-}
+} */
 
 .portfolio .portfolio-wrap:hover .portfolio-info {
   opacity: 1;
